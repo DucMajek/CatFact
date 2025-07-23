@@ -1,0 +1,11 @@
+D:\CatFact\CatFact.Data\bin\Debug\net9.0\CatFact.Data.deps.json
+D:\CatFact\CatFact.Data\bin\Debug\net9.0\CatFact.Data.dll
+D:\CatFact\CatFact.Data\bin\Debug\net9.0\CatFact.Data.pdb
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.AssemblyInfoInputs.cache
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.AssemblyInfo.cs
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.csproj.CoreCompileInputs.cache
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.dll
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\refint\CatFact.Data.dll
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\CatFact.Data.pdb
+D:\CatFact\CatFact.Data\obj\Debug\net9.0\ref\CatFact.Data.dll

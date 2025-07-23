@@ -1,0 +1,6 @@
+@CatFact_HostAddress = http://localhost:5200
+
+GET {{CatFact_HostAddress}}/catFact/
+Accept: application/json
+
+###

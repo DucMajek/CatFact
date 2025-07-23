@@ -1,0 +1,15 @@
+D:\CatFact\CatFact.Business\bin\Debug\net9.0\CatFact.Business.deps.json
+D:\CatFact\CatFact.Business\bin\Debug\net9.0\CatFact.Business.dll
+D:\CatFact\CatFact.Business\bin\Debug\net9.0\CatFact.Business.pdb
+D:\CatFact\CatFact.Business\bin\Debug\net9.0\CatFact.Data.dll
+D:\CatFact\CatFact.Business\bin\Debug\net9.0\CatFact.Data.pdb
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.csproj.AssemblyReference.cache
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.AssemblyInfoInputs.cache
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.AssemblyInfo.cs
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.csproj.CoreCompileInputs.cache
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact..1E5FDD03.Up2Date
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.dll
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\refint\CatFact.Business.dll
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\CatFact.Business.pdb
+D:\CatFact\CatFact.Business\obj\Debug\net9.0\ref\CatFact.Business.dll

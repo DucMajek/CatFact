@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFact.Presentation", "CatFact.Presentation\CatFact.Presentation.csproj", "{6F536279-FBFC-42D7-A099-E294F94DDB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFact.Data", "CatFact.Data\CatFact.Data.csproj", "{D73F8DBD-EF85-484B-93B3-1708A057349D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFact.Business", "CatFact.Business\CatFact.Business.csproj", "{2E1C2D09-9863-446E-8F73-A5C085113E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F536279-FBFC-42D7-A099-E294F94DDB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F536279-FBFC-42D7-A099-E294F94DDB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F536279-FBFC-42D7-A099-E294F94DDB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F536279-FBFC-42D7-A099-E294F94DDB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73F8DBD-EF85-484B-93B3-1708A057349D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73F8DBD-EF85-484B-93B3-1708A057349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73F8DBD-EF85-484B-93B3-1708A057349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73F8DBD-EF85-484B-93B3-1708A057349D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1C2D09-9863-446E-8F73-A5C085113E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1C2D09-9863-446E-8F73-A5C085113E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1C2D09-9863-446E-8F73-A5C085113E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1C2D09-9863-446E-8F73-A5C085113E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
