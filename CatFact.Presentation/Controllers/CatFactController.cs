@@ -15,7 +15,14 @@ public class CatFactController : ControllerBase
      [HttpGet("/catFact")]
      public async Task<ActionResult> GetCatFacts()
      {
-          var response = await _catService.GetCatFact();
-          return Ok(response);
+          try
+          {
+               var response = await _catService.GetCatFact();
+               return Ok(response);
+          }
+          catch (Exception e)
+          {
+               return BadRequest(e.Message);
+          }
      }
 }

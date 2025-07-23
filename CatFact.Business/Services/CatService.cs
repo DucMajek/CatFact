@@ -17,10 +17,12 @@ public class CatService : ICatService
     public async Task<CatFactEntity> GetCatFact()
     {
         var catFact = await _context.GetRandomCatFact();
+        
         if (catFact == null)
         {
-            throw new NullReferenceException();
+            throw new InvalidOperationException("No cat facts was found");
         }
+        
         await SaveCatFactToFile(catFact);
         return catFact;
     }

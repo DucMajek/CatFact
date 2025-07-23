@@ -18,3 +18,8 @@ Response:
   "Fact": "A cat\u0027s normal pulse is 140-240 beats per minute, with an average of 195.",
   "Length": 73
 }
+Response: 
+{
+  "Fact": "The Maine Coon cat is America\u0027s only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.",
+  "Length": 143
+}
