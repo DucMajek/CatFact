@@ -5,7 +5,6 @@ using CatFact.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Dodaj Swaggera prawidłowo
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddControllers();

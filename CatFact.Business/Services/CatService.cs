@@ -27,8 +27,14 @@ public class CatService : ICatService
 
     private static async Task SaveCatFactToFile(CatFactEntity catFact)
     {
-        var jsonToString = JsonSerializer.Serialize(catFact);
+        var options = new JsonSerializerOptions
+        {
+            WriteIndented = true
+        };
         
-        await File.AppendAllTextAsync("catfact.txt", jsonToString + "\n");
+        var jsonToString = JsonSerializer.Serialize(catFact, options);
+        var content = "Response: \n" + jsonToString + "\n";
+        
+        await File.AppendAllTextAsync("catfact.txt", content);
     }
 }

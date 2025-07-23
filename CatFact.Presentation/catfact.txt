@@ -1,2 +1,20 @@
-{"Fact":"Lions are the only cats that live in groups, called prides. Every female within the pride is usually related.","Length":109}
-{"Fact":"In 1888, more than 300,000 mummified cats were found an Egyptian cemetery. They were stripped of their wrappings and carted off to be used by farmers in England and the U.S. for fertilizer.","Length":189}
+Response: 
+{
+  "Fact": "The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat\u0027s present state of mind by observing the posture of his tail.",
+  "Length": 180
+}
+Response: 
+{
+  "Fact": "A cat\u2019s jaw can\u2019t move sideways, so a cat can\u2019t chew large chunks of food.",
+  "Length": 74
+}
+Response: 
+{
+  "Fact": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth\u0027s magnetic field. A cat taken far from its home can return to it. But if a cat\u0027s owners move far from its home, the cat can\u0027t find them.",
+  "Length": 243
+}
+Response: 
+{
+  "Fact": "A cat\u0027s normal pulse is 140-240 beats per minute, with an average of 195.",
+  "Length": 73
+}

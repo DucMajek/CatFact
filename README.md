@@ -1,5 +1,4 @@
 # CatFact
-Cat fact
 
 https://localhost:PORT/swagger/index.html
 
